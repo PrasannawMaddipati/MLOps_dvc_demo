@@ -1,3 +1,16 @@
+*************************************************************
+
+This is my first end to end MLOps project on wine quality prediction dataset.
+
+I have created a pipeline involving modular coding on Visual Studio Code, 
+integrated and created workflow actions on Git,
+tested the API's on Postman & 
+deployed the app on heroku platform.
+
+Heroku app link: https://winequality-dvc.herokuapp.com
+GitHub link : https://github.com/PrasannaMaddipati/MLOps_dvc_demo
+
+*************************************************************
 create env 
 
 ```bash
