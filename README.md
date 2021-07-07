@@ -33,3 +33,14 @@ git add .
 ```
 ```bash
 git commit -m "first commit"
+```
+oneliner updates  for readme
+
+```bash
+git add . && git commit -m "update Readme.md"
+```
+```bash
+git remote add origin https://github.com/c17hawke/simple-dvc-demo.git
+git branch -M main
+git push origin main
+```
